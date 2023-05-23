@@ -1,0 +1,6 @@
+T:\imz.ev2\imz.ConexionMedidor\ServidorSocket\bin\Debug\ServidorSocket.dll
+T:\imz.ev2\imz.ConexionMedidor\ServidorSocket\bin\Debug\ServidorSocket.pdb
+T:\imz.ev2\imz.ConexionMedidor\ServidorSocket\obj\Debug\ServidorSocket.csproj.AssemblyReference.cache
+T:\imz.ev2\imz.ConexionMedidor\ServidorSocket\obj\Debug\ServidorSocket.csproj.CoreCompileInputs.cache
+T:\imz.ev2\imz.ConexionMedidor\ServidorSocket\obj\Debug\ServidorSocket.dll
+T:\imz.ev2\imz.ConexionMedidor\ServidorSocket\obj\Debug\ServidorSocket.pdb
